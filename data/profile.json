@@ -105,11 +105,11 @@
     },
     {
       "title": "AI & ML",
-      "items": ["OpenAI APIs", "GPT-4o", "Whisper", "TensorFlow", "LangChain"]
+      "items": ["OpenAI APIs", "GPT-4o", "Whisper", "TensorFlow", "LangChain, Speech-to-Text"]
     },
     {
       "title": "Frontend",
-      "items": ["React", "React Native", "Responsive UI"]
+      "items": ["React", "React Native", "Responsive UI, TypeScript, Tailwind CSS, Unity Game Design"]
     },
     {
       "title": "Backend",
