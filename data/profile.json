@@ -27,7 +27,7 @@
       "id": "flavurai",
       "company": "FlavurAI",
       "role": "Founder & CEO",
-      "timeframe": "Aug 2025 – Present",
+      "timeframe": "Aug 2025 - Present",
       "location": "San Francisco, CA",
       "bullets": [
         "Engineering an AI-powered culinary social platform that transforms short-form food videos into structured, high-fidelity recipes.",
@@ -35,7 +35,7 @@
         "Built a scalable backend using Modal and Supabase, with a Vercel-hosted React frontend for global distribution."
       ],
       "tags": ["AI", "GPT-4o", "Whisper", "React", "Modal", "Supabase", "Vercel"],
-      "detailLink": "experience.html?id=flavurai"
+      "detailLink": "project.html?id=flavurai"
     },
     {
       "id": "aadee-inc",

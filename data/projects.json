@@ -5,20 +5,22 @@
     "timeframe": "Aug 2025 – Present",
     "summary": "AI-powered platform that transforms short-form food videos into structured, high-fidelity written recipes.",
     "outcome": "Built a multimodal pipeline using GPT-4o and Whisper to extract ingredients, steps, and metadata from TikTok and Instagram videos.",
-    "stack": ["GPT-4o", "Whisper", "React", "Vercel", "Modal", "Supabase"],
+    "stack": ["GPT-4o", "Whisper", "React", "Vercel", "Modal", "Supabase, FastAPI"],
     "image": "",
     "links": {
-        "demo": "#",
+        "demo": "https://veg-cooking.vercel.app/",
         "repo": "#"
     },
     "highlights": [
-        "Designed a multimodal ingestion pipeline combining audio transcription and visual context",
-        "Converted unstructured video content into reusable, structured recipe data",
-        "Deployed a globally accessible React frontend backed by scalable cloud infrastructure"
+        "Designed a multimodal AI pipeline combining vision, audio transcription, and structured text generation",
+        "Integrated TikTok and Meta Graph APIs for automated video ingestion",
+        "Built a serverless backend using Modal + Supabase for scalable AI workloads",
+        "Deployed a globally distributed React frontend on Vercel"
     ],
     "lessons": [
-        "Multimodal AI systems require careful orchestration between vision, audio, and text",
-        "Production reliability matters more than raw model capability"
+        "Multimodal systems require strict validation between vision, audio, and text outputs",
+        "Latency and cost controls matter when chaining large models",
+        "Product UX is just as important as model quality for adoption"
     ]
   },
   {
