@@ -4,10 +4,10 @@
   "photo": "img/profile.jpg",
   "location": "Raleigh, North Carolina",
   "headline": "I build AI-powered products from idea to deployment — blending software engineering, machine learning, and business strategy to ship real systems used by real people.",
-  "about": "I’m a Computer Science student at NC State and a Park Scholar with a strong focus on building scalable, production-ready AI systems. My experience spans full-stack development, cloud infrastructure, applied machine learning, and startup leadership. I enjoy working at the intersection of engineering and product — taking ambiguous ideas, architecting solutions, and turning them into shipped platforms.",
+  "about": "I'm a Computer Science student at NC State and a Park Scholar with a strong focus on building scalable, production-ready AI systems. My experience spans full-stack development, cloud infrastructure, applied machine learning, and startup leadership. I enjoy working at the intersection of engineering and product — taking ambiguous ideas, architecting solutions, and turning them into shipped platforms.",
   "contact": {
     "email": "adimchheda@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/aadee-chheda",
+    "linkedin": "https://www.linkedin.com/in/aadee-chheda-640578291/",
     "github": "https://github.com/Aadee1231",
     "resume": "docs/Aadee_Chheda_Resume.pdf"
   },
@@ -28,7 +28,7 @@
       "company": "FlavurAI",
       "role": "Founder & CEO",
       "timeframe": "Aug 2025 – Present",
-      "location": "San Francisco, CA (Remote)",
+      "location": "San Francisco, CA",
       "bullets": [
         "Engineering an AI-powered culinary social platform that transforms short-form food videos into structured, high-fidelity recipes.",
         "Designed and deployed a multimodal AI pipeline using GPT-4o and Whisper to extract ingredients, steps, and metadata from TikTok and Instagram videos.",
@@ -63,18 +63,39 @@
         "Serve as a technical liaison for students and faculty, translating system failures into actionable solutions."
       ],
       "tags": ["IT Support", "Networking", "Systems", "Troubleshooting"]
+    },
+    {
+        "id": "km-accounting",
+        "company": "K&M Accounting & Tax Services",
+        "role": "Junior Bookkeeper",
+        "timeframe": "Jan 2018 – May 2024",
+        "location": "Charlotte, NC",
+        "bullets": [
+            "Managed financial records, reconciliations, and reporting for multiple clients using QuickBooks.",
+            "Led client communication and assisted with tax documentation and financial insights.",
+            "Helped transition accounting workflows to cloud-based systems, improving efficiency and accessibility."
+        ],
+        "tags": ["Accounting", "QuickBooks", "Finance", "Client Relations"]
     }
   ],
   "certifications": [
     {
-      "title": "ISEF Winner – AI Skin Cancer Detection",
-      "issuer": "International Science & Engineering Fair",
-      "date": "2024"
+        "title": "Park Scholarship",
+        "issuer": "North Carolina State University",
+        "date": "Class of 2028",
+        "link": ""
     },
     {
-      "title": "Honors University Program",
-      "issuer": "NC State University",
-      "date": ""
+        "title": "ISEF Winner",
+        "issuer": "International Science and Engineering Fair",
+        "date": "",
+        "link": ""
+    },
+    {
+        "title": "Honors University Program",
+        "issuer": "NC State University",
+        "date": "",
+        "link": ""
     }
   ],
   "skills": [
